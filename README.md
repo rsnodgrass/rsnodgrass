@@ -3,7 +3,7 @@
 ### Current Focus
 
 * [Home Assistant](https://www.home-assistant.io/) / [HACS](https://github.com/hacs) and custom integrations
-* [Helium](https://helium.com/) / cryptocurrencies / crypto accounting and taxation
+* [Helium](https://helium.com/) / crypto scaling / crypto accounting and taxation
 
 ### Previous
 
