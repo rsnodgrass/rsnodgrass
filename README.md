@@ -7,5 +7,5 @@
 
 ### Previous
 
-* Shopify backend integrations
+* Shopify integrations
 
