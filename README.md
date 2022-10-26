@@ -1,3 +1,4 @@
 Random Interests
 
-* [Home Assistant](https://www.home-assistant.io/) home automation / IoT
+* [Home Assistant](https://www.home-assistant.io/) home automation 
+* IoT
