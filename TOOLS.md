@@ -3,7 +3,7 @@ List of tools I found useful...mostly a reminder to myself sometimes when I forg
 
 ## Coding
 
-* IDE: [PyCharm](https://www.jetbrains.com/pycharm/) / [VS Code](https://code.visualstudio.com/)
+* IDE: [VS Code](https://code.visualstudio.com/)
 * Autocompletion: [Copilot]()
 * Formatters: [black](https://black.readthedocs.io/en/stable/index.html) (Python)
 * Python Libraries: [Awesome](https://github.com/sindresorhus/awesome) / [Awesome-python](https://github.com/vinta/awesome-python#readme) / [Bundlephobia](https://bundlephobia.com/)
@@ -30,13 +30,17 @@ List of tools I found useful...mostly a reminder to myself sometimes when I forg
 
 ## Networking
 
-* LAN: [Fing](https://www.fing.com/), [WiFi Explorer](https://setapp.com/apps/wifi-explorer)
+* LAN: [Fing](https://www.fing.com/) / [WiFi Explorer](https://setapp.com/apps/wifi-explorer)
+
+## Shell
+
+* Misc: [htop](https://htop.dev/) / [bat](https://github.com/sharkdp/bat)
+* Logs: [lnav](https://lnav.org/)
 
 ## Docs
 
 * Markdown: [Marked](https://setapp.com/apps/marked)
 * Diagrams: [Excalidraw](https://excalidraw.com/) / [draw.io](https://draw.io/) / [jsonvisio](https://jsoncrack.com/) / [sequencediagram](https://sequencediagram.org/)
-
 
 ## Other
 
