@@ -5,8 +5,6 @@ List of tools I found useful...mostly a reminder to myself sometimes when I forg
 
 * IDE: [VS Code](https://code.visualstudio.com/)
 * Autocompletion: [Copilot]()
-* Formatters: [black](https://black.readthedocs.io/en/stable/index.html) (Python)
-* Python Libraries: [Awesome](https://github.com/sindresorhus/awesome) / [Awesome-python](https://github.com/vinta/awesome-python#readme) / [Bundlephobia](https://bundlephobia.com/)
 * Snippets: [SnippetsLab](https://setapp.com/apps/snippetslab)
 
 ## VCS
@@ -31,6 +29,12 @@ List of tools I found useful...mostly a reminder to myself sometimes when I forg
 ## Networking
 
 * LAN: [Fing](https://www.fing.com/) / [WiFi Explorer](https://setapp.com/apps/wifi-explorer)
+
+## Python
+
+* Python Libraries: [Awesome](https://github.com/sindresorhus/awesome) / [Awesome-python](https://github.com/vinta/awesome-python#readme) / [Bundlephobia](https://bundlephobia.com/)
+* Formatters: [black](https://black.readthedocs.io/en/stable/index.html) (Python)
+* [mypy static typing](http://mypy-lang.org/)
 
 ## Shell
 
