@@ -44,6 +44,6 @@ List of tools I found useful...mostly a reminder to myself sometimes when I forg
 
 ## Other
 
-* 2FA: [Step Two]
+* 2FA: [Step Two](https://steptwo.app/)
 * Data generator: [RandomKeyGen](https://randomkeygen.com/)
 * Stock images: [Unsplash](https://unsplash.com/) / [Pexels](https://www.pexels.com/) / [FreePik](https://www.freepik.com/)
