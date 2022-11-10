@@ -33,8 +33,10 @@ List of tools I found useful...mostly a reminder to myself sometimes when I forg
 ## Python
 
 * Libraries: [Awesome](https://github.com/sindresorhus/awesome) / [Awesome-python](https://github.com/vinta/awesome-python#readme) / [Bundlephobia](https://bundlephobia.com/)
-* Formatters: [black](https://black.readthedocs.io/en/stable/index.html) (Python)
+* Formatters: [black](https://black.readthedocs.io/en/stable/index.html), [import sort](https://github.com/PyCQA/isort)
 * Static Type Checker: [mypyg](http://mypy-lang.org/)
+* Config: 
+* Misc Useful: [rich (inspect)](https://github.com/Textualize/rich)
 
 ## Shell
 
