@@ -36,7 +36,7 @@ List of tools I found useful...mostly a reminder to myself sometimes when I forg
 * Formatters: [black](https://black.readthedocs.io/en/stable/index.html), [import sort](https://github.com/PyCQA/isort)
 * Static Type Checker: [mypyg](http://mypy-lang.org/)
 * Config: [hydra](https://hydra.cc/docs/intro/)
-* Misc Useful: [rich (inspect)](https://github.com/Textualize/rich) [tqdm](https://github.com/tqdm/tqdm)
+* Misc Useful: [rich (inspect)](https://github.com/Textualize/rich) / [tqdm](https://github.com/tqdm/tqdm)
 
 ## Shell
 
