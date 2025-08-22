@@ -3,8 +3,8 @@ List of tools I found useful...mostly a reminder to myself sometimes when I forg
 
 ## Coding
 
-* IDE: [VS Code](https://code.visualstudio.com/)
-* Autocompletion: [Copilot]()
+* AI: Claude Code, Windsurf, [Warp](https://app.warp.dev/referral/NR349)
+* IDE: [VS Code](https://code.visualstudio.com/) or Windsurf
 * Snippets: [SnippetsLab](https://setapp.com/apps/snippetslab)
 
 ## VCS
