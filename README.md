@@ -3,3 +3,11 @@
 * home automation & IoT: [Home Assistant](https://www.home-assistant.io/) + keeping "legacy" devices from the landfill
 * 3D modeling: OpenSCAD, CadQuery, Gridfinity
 * large scale, distributed systems, applied AI
+
+
+
+
+
+### Favorite Projects
+
+[OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) | [HomeAssistant](https://rc.home-assistant.io)
