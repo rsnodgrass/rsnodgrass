@@ -7,4 +7,4 @@
 * 3D modeling: OpenSCAD, CadQuery, Gridfinity, [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 
 
-Projects Following 2026: [Beads/Gastown](https://github.com/steveyegge/beads), [Inbox Zero](https://www.getinboxzero.com/?ref=2R5OIE)
+Projects Following 2026: [Beads/Gastown](https://github.com/steveyegge/beads), [Temporal](https://github.com/temporalio/temporal), [Inbox Zero](https://www.getinboxzero.com/?ref=2R5OIE)
