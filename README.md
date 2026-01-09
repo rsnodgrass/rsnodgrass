@@ -7,4 +7,4 @@
 * 3D modeling: [OpenSCAD](https://github.com/openscad/openscad), CadQuery, Gridfinity, [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
 * contributing back to OSS projects that I use frequently
 
-Projects Following 2026: [work-lab](https://github.com/modern-tooling/work-lab), [Gastown](https://github.com/steveyegge/gastown), [Temporal](https://github.com/temporalio/temporal), [Inbox Zero](https://www.getinboxzero.com/?ref=2R5OIE)
+Projects I'm Following in 2026: [work-lab](https://github.com/modern-tooling/work-lab), [Gastown](https://github.com/steveyegge/gastown), [Temporal](https://github.com/temporalio/temporal), [Inbox Zero](https://www.getinboxzero.com/?ref=2R5OIE)
