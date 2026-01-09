@@ -1,10 +1,10 @@
 ### Random Interests
 
-* contributing back to OSS projects that I use frequently
+* bleeding edge of AI empowered development ([work-lab](https://github.com/modern-tooling/work-lab), [Beads](https://github.com/steveyegge/beads/), [human-ai-docs](https://github.com/modern-tooling/ai-human-docs))
 * applied AI (particularly multi-agentic flows)
 * large scale, distributed systems
 * home automation & IoT: [Home Assistant](https://www.home-assistant.io/) + keeping "legacy" devices from the landfill
 * 3D modeling: OpenSCAD, CadQuery, Gridfinity, [OrcaSlicer](https://github.com/SoftFever/OrcaSlicer)
+* contributing back to OSS projects that I use frequently
 
-
-Projects Following 2026: [Beads/Gastown](https://github.com/steveyegge/beads), [Temporal](https://github.com/temporalio/temporal), [Inbox Zero](https://www.getinboxzero.com/?ref=2R5OIE)
+Projects Following 2026: [work-lab](https://github.com/modern-tooling/work-lab), [Gastown](https://github.com/steveyegge/gastown), [Temporal](https://github.com/temporalio/temporal), [Inbox Zero](https://www.getinboxzero.com/?ref=2R5OIE)
